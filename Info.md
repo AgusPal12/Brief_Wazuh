@@ -51,6 +51,11 @@ ssh client@***.***.***.***  -p 41877
 ### VM Purple Linux
 
 **Rôle :** Machine d'attaque pour les simulations de sécurité
+VM Extérieure à Proxmox.
+
+### Schéma de l’architecture de supervision
+
+![alt text](Schema_Architecture.png)
 
 ## Installation
 En suivant la documentation : Quickstart (installation de Wazuh) : https://documentation.wazuh.com/current/quickstart.html
