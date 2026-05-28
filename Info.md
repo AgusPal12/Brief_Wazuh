@@ -72,12 +72,15 @@ En suivant la documentation : Quickstart (installation de Wazuh) : https://docum
 ### **Dans le client** 
 
 - Installation et configuration de Suricata 
+
 ![alt text](Images_Wazuh/Wazuh_Network_IDS_Integration_3.png)
 
 - Test de configurations
+
 ![alt text](Images_Wazuh/Wazuh_Network_IDS_Integration_4.png)
 
 - Test avec un Ping depuis le serveur (Attack emulation)
+
 ![alt text](Images_Wazuh/Wazuh_Network_IDS_Integration_2.png)
 
 ### **Remontée des logs dans Wazuh Dashboard**
@@ -96,6 +99,8 @@ En suivant la documentation : Quickstart (installation de Wazuh) : https://docum
 ![alt text](Images_Wazuh/Wazuh_FIM.png)
 
  - Création, modification et suppression d'un fichier dans le répertoire surveillé
+
+
 ![alt text](Images_Wazuh/Wazuh_FIM3.png)
 
 ### **Visualisation des alertes dans Wazuh Dashboard**
